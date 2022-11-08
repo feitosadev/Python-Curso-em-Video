@@ -1,0 +1,11 @@
+a = input('Digite algo: ')
+
+print(type (a))
+print(a.isspace())
+print(a.isnumeric())
+print(a.isalpha())
+print(a.isalnum())
+print(a.isupper())
+print(a.islower())
+print(a.istitle())
+print(a.capitalize())
